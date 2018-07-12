@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Places</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="key">AIzaSyBUc7BQjEOTbEkvgOy9lzZKwUJwxLHPGYQ</string>
+    <string name="search_location">Type a location</string>
+    <string name="fetching_current_location">Fetching current location</string>
+    <string name="select">Select</string>
+    <string name="search_anything">Search bar, restaurent, cafe, spa etc...</string>
+    <string name="icon">icon</string>
+    <string name="root_image">root_image</string>
+    <string name="place_name">place_name</string>
+    <string name="place_addr">place_addr</string>
+    <string name="root">root</string>
+    <string name="user_photos">User photos</string>
+    <string name="addr">Address:</string>
+    <string name="tag">Tags:</string>
+</resources>
